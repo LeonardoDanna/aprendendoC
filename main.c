@@ -1,14 +1,14 @@
-//Coment�rio
+// Meu primeiro comentario
 
 /*
-    Coment�rio grande
+    Meu segundo comentario
 */
+
 #include <stdio.h>
-#include <stdli.b>
+#include <stdlib.h>
 
 int main()
 {
-    printf("Hello World\n");
-    system("pause");
+    printf("\nOla, seja bem-vindo\n");
     return 0;
 }
